@@ -7,7 +7,7 @@ const Vowels= document.querySelector(".vowels");
 
 textInput.focus();
 
-const vowelList = "aeiouöüä";
+const vowelList = "aeiouöüäAEIOUÜÖÄ";
 
 console.log(vowelList);
 
